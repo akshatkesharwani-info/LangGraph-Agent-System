@@ -1,0 +1,27 @@
+task,tools,answer
+north_march,"top_products,get_sales,get_sales,get_sales,get_sales,get_sales,calculate","The total revenue in the North region for March is **₹6,711,000**."
+top3_products,"top_products,calculate","**Top‑3 products by revenue**
+
+1. **Laptop** – ₹55,550,000  
+2. **Tablet** – ₹37,380,000  
+3. **Phone** – ₹29,950,000  
+
+**Percentage of total revenue contributed by the #1 product (Laptop)**  
+
+Total revenue of all five products = ₹138,876,000  
+
+\[
+\frac{55{,}550{,}000}{138{,}876{,}000}\times 100 \approx 40.00\%
+\]
+
+So, the Laptop accounts for **about 40 %** of the company’s total revenue."
+memory_same_thread,get_sales,"The total revenue for the South region in March is **₹3,004,000**."
+memory_new_thread,,"I’m still missing the month you’d like the South‑region sales data for. Could you let me know which month (e.g., January, February, March, April, May, or June) you’re referring to?"
+inventory_cover,"check_inventory,get_sales,get_sales,calculate,calculate","- Monitor inventory: **18** units  
+- Tablet inventory: **45** units  
+
+**Lower stock:** Monitor (18 units)
+
+**Average monthly Tablet sales in West:** ≈ 46.33 units  
+
+**Months of Tablet sales covered by current Tablet stock:** ≈ 0.97 months (about one month)."
